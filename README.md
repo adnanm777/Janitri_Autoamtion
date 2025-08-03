@@ -9,7 +9,7 @@ This repository contains the **manual test cases, bug reports, automation test s
 - **Project Under Test:** https://dev-dash.janitri.in/
 - **Tested By:** Mohammad Adnan
 - **Testing Type:** Manual Testing & Automation Testing
-- **Test Cycle Date:** August 3, 2025
+- **Test Cycle Date:** 1 to 3 August , 2025
 
 ---
 
